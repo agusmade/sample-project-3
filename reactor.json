@@ -1,0 +1,11 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "agusmade",
+    "repo": "sample-project-3",
+    "branch": "master"
+  },
+  "name": "Sample Project 3",
+  "description": "Etiam commodo consequat nulla ac luctus",
+  "version": "1.0.0"
+}
